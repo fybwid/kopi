@@ -5,6 +5,9 @@
 - Rails version `5.1.4`
 - PostgreSQL version `9.3.18`
 
+## Git Rules
+Read more details at [Project Guidelines](https://github.com/wearehive/project-guidelines)
+
 ## Running Test
 ### Minitest
 `rails test` or `rails t`
