@@ -1,5 +1,6 @@
 # Ruang Digital
-## Ruang Kerja Tanpa Batas Dalam Bentuk Digital
+## Ruang Kerja Digital
+[![Build Status](https://travis-ci.org/fybwid/kopi.svg?branch=develop)](https://travis-ci.org/fybwid/kopi)
 ### Requirements
 - Ruby version `2.4.2`
 - Rails version `5.1.4`
